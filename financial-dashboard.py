@@ -11,7 +11,7 @@ with open('translations.json', 'r', encoding='utf-8') as f:
 
 
 # Language selection
-language = st.sidebar.selectbox("🌍 Select Language", options=["English", "French", "Spanish"])
+language = st.sidebar.selectbox("🌍 Select Language", options=["English","Twi", "Hausa", "Ga"])
 
 # Helper function to get the translation
 def translate(key):
