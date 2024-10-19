@@ -1,0 +1,22 @@
+{
+  "Emergency Fund": {
+    "low_balance": "You should focus on building an emergency fund. Aim to save at least 3-6 months' worth of living expenses.",
+    "medium_balance": "Your emergency fund is growing. Continue to save regularly until you reach your target.",
+    "high_balance": "Congratulations! You've built a solid emergency fund. Consider focusing on other goals."
+  },
+  "Home Purchase": {
+    "low_balance": "It might take some time to save for a home. Consider increasing your savings rate or exploring other investment options.",
+    "medium_balance": "You're making good progress! Keep saving, and consider setting a timeline for your home purchase.",
+    "high_balance": "You're in a strong position to buy a home. Explore mortgage options and start planning for the purchase."
+  },
+  "Retirement": {
+    "low_balance": "Start small but stay consistent. Focus on contributing to a retirement plan as early as possible.",
+    "medium_balance": "You're on the right track! Continue investing and consider seeking professional advice for retirement strategies.",
+    "high_balance": "You're well-prepared for retirement. Focus on diversifying your investments and reducing risks."
+  },
+  "Debt Repayment": {
+    "low_balance": "Start by allocating a portion of your income to repay debt, starting with high-interest loans.",
+    "medium_balance": "You're making progress! Consider increasing your payments to reduce debt faster.",
+    "high_balance": "Great job! You're close to being debt-free. Stay on track and continue managing your expenses wisely."
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "low_balance": {
+        "tip": "Consider starting with a small emergency fund and gradually increase it."
+    },
+    "medium_balance": {
+        "tip": "Aim to save at least 3 months' worth of expenses for emergencies."
+    },
+    "high_balance": {
+        "tip": "Consider investing part of your emergency fund to earn interest while keeping it accessible."
+    }
+}
